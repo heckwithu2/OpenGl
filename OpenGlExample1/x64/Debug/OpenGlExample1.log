@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\jerem\Documents\SCHOOL\Kent\Computer Graphics\assingments\Assignment 2\OpenGlExample1\functions.h(13,27): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jerem\Documents\SCHOOL\Kent\Computer Graphics\assingments\Assignment 2\OpenGlExample1\functions.h(13,19): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jerem\Documents\SCHOOL\Kent\Computer Graphics\assingments\Assignment 2\OpenGlExample1\functions.h(13,12): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jerem\Documents\SCHOOL\Kent\Computer Graphics\assingments\Assignment 2\OpenGlExample1\functions.h(20,27): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jerem\Documents\SCHOOL\Kent\Computer Graphics\assingments\Assignment 2\OpenGlExample1\functions.h(20,19): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jerem\Documents\SCHOOL\Kent\Computer Graphics\assingments\Assignment 2\OpenGlExample1\functions.h(20,12): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\jerem\Documents\SCHOOL\Kent\Computer Graphics\assingments\Assignment 2\OpenGlExample1\main.cpp(72,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jerem\Documents\SCHOOL\Kent\Computer Graphics\assingments\Assignment 2\OpenGlExample1\main.cpp(72,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jerem\Documents\SCHOOL\Kent\Computer Graphics\assingments\Assignment 2\OpenGlExample1\main.cpp(118,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jerem\Documents\SCHOOL\Kent\Computer Graphics\assingments\Assignment 2\OpenGlExample1\main.cpp(118,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  OpenGlExample1.vcxproj -> C:\Users\jerem\Documents\SCHOOL\Kent\Computer Graphics\assingments\Assignment 2\x64\Debug\OpenGlExample1.exe
